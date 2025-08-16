@@ -14,7 +14,7 @@ Continuous integration with GitHub Actions
 
 <h3>Dependencies</h3>
 
-Python 3.x
+Python 3.x<n>
 PyTorch (>=2.0.0)
 OpenCV
 Ultralytics
