@@ -14,8 +14,8 @@ Continuous integration with GitHub Actions
 
 <h3>Dependencies</h3>
 
-Python 3.x<n>
-PyTorch (>=2.0.0)
-OpenCV
-Ultralytics
+Python 3.x <br>
+PyTorch (>=2.0.0) <br>
+OpenCV <br>
+Ultralytics <br>
 Other dependencies are listed in requirements.txt
