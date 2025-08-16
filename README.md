@@ -5,12 +5,12 @@ This project implements YOLO-World for advanced object detection tasks. YOLO-Wor
 <h2>Features:</h2>
 
 
-Real-time object detection
-Support for multiple object classes
-High accuracy and performance
-Easy-to-use interface
-Automatic dependency management
-Continuous integration with GitHub Actions
+Real-time object detection <br>
+Support for multiple object classes <br>
+High accuracy and performance <br>
+Easy-to-use interface <br>
+Automatic dependency management <br>
+Continuous integration with GitHub Actions <br>
 
 <h3>Dependencies</h3>
 
