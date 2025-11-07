@@ -22,7 +22,7 @@ def yolov10_inference(image, video, model_id, image_size, conf_threshold):
         frame_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 
         output_video_path = tempfile.mktemp(suffix=".webm")
-        out = cv2.VideoWriter(output_video_path, cv2.VideoWriter_fourcc(*'vp80'), fps, (frame_width, frame_height))
+        out = cv2.VideoWriter(output_video_path, cv2.VideoWriter_fourcc(*'vp80'), fps, (frame_width, frame_height)) # type: ignore
 
         while cap.isOpened():
             ret, frame = cap.read()
